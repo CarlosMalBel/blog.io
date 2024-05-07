@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "The Last Of Us"
+date:   2024-04-24 11:17:52 +0200
+categories: jekyll update
+---
+
+# ¿Que es The Last Of Us?
+
+## Resumen:
+
+  - The Last Of Us (Los ultimos de nosotros) es un videojuego de 2013 con tematica de terror y suspense.    
+Ambientado en unos Estado Unidos devastados por una pandemia fungica, un hongo que tipicamente infecta a las hormigas se adapta a los humanos, controlandolos y volviendolos agresivos a otras personas sanas. Estos infectados solo buscan esparcir el virus, contagiando mediante esporas, transmitidas por mordidas, arrañazos o incluso el aire, a cualquier ser vivio que vean.    
+
+## Sinopsis:
+
+  - El contrabandista y superviviente, Joel se encuentra con el encargo de entregar una niña, Ellie, en unas instalaciones cerca de la costa oeste de EE.UU. Esta tarea sera de vital importancia, ya que la niña presenta una mordida en la mano pero no sintomas de infeccion, es inmune.    
+Este duo tendra que esquivar infectados, asaltantes y un pais destruido para intentar hayar una cura.
+
+
+## Ophiocordyceps Unilateralis:
+
+   - Aunque es un juego de ficción, el hongo que te presentan existe en la vida real.    
+El nombre usado en el videjo juego, Cordyceps, viene del nombre cientifico del Ophiocordyceps Unilateralis el cual tambien infeccta y controla a seres vivos, pero no a un nivel tan complejo como a los humanos, solo a simples hormigas. El humano es mas complejo que el sistema de una insecto, de momento no hay que preocuparse.
+
+![Hormiga-infectada](https://naukas.com/fx/uploads/2010/08/hormiga2a.jpg)

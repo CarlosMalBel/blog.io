@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://10.0.16.36:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://10.0.16.36:3000/" rel="alternate" type="text/html" /><updated>2024-05-07T09:17:17+02:00</updated><id>http://10.0.16.36:3000/feed.xml</id><title type="html">Jekyll IAW</title><subtitle>Esta pagina es una prueba para la tarea 2.1 del modulo de Implantacion de Aplicaciones Web del curso ASIR 2023/2024.</subtitle><entry><title type="html">La serie de televisión</title><link href="http://10.0.16.36:3000/jekyll/update/2024/04/29/TLOU-Serie-TV.html" rel="alternate" type="text/html" title="La serie de televisión" /><published>2024-04-29T09:49:36+02:00</published><updated>2024-04-29T09:49:36+02:00</updated><id>http://10.0.16.36:3000/jekyll/update/2024/04/29/TLOU-Serie-TV</id><content type="html" xml:base="http://10.0.16.36:3000/jekyll/update/2024/04/29/TLOU-Serie-TV.html"><![CDATA[<h1 id="exito-en-consolas-y-en-la-pantalla">Exito en consolaS y en la pantalla.</h1>
+
+<h2 id="un-plano-real">Un plano real:</h2>
+
+<ul>
+  <li>Como dije en otro post el hongo que se muestra en el videojuego es real, el Ophiocordyceps Unilateraris existe pero solo contagia a hormigas sin embargo, en la serie plantean que, debido al calentamiento global (el hongo no aguanta la temperatura del cuerpo humano), este se adapta y puede resister a mas calor. Debiado a esto el transcurso de la historia es real y se asemeja mucho al videojuego.</li>
+</ul>
+
+<h2 id="reparto-y-recepción">Reparto y recepción:</h2>
+
+<ul>
+  <li>La serie cuenta con actores con mucho talento como personajes principales. Pedro Pascal de Kingsman:El circulo dorado, como Joel, Bella Ramsy de Juego de Tronos. La serie fue muy bien recibida y cuenta con una renovacion para adaptar el segundo juego como segunda temporada.</li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Exito en consolaS y en la pantalla.]]></summary></entry><entry><title type="html">The Last Of Us: Parte II</title><link href="http://10.0.16.36:3000/jekyll/update/2024/04/24/TLOU-parte2.html" rel="alternate" type="text/html" title="The Last Of Us: Parte II" /><published>2024-04-24T11:57:54+02:00</published><updated>2024-04-24T11:57:54+02:00</updated><id>http://10.0.16.36:3000/jekyll/update/2024/04/24/TLOU-parte2</id><content type="html" xml:base="http://10.0.16.36:3000/jekyll/update/2024/04/24/TLOU-parte2.html"><![CDATA[<h1 id="venganza">Venganza:</h1>
+
+<h2 id="resumen">Resumen:</h2>
+
+<ul>
+  <li>The Last Of Us Parte II es un videojuego lanzado en 2020 es la segunda parte y continuacion de la saga The Last Of Us. Misma ambientación que el primero, pero en ubicaciones totalmente nuevas (costa oeste de E.E.U.U). Cuenta con algunos personajes ya visto en el primero, aunque la mayoria son nuevos. Con este nuevo juego se busco darle un enfoque mas real, con dilemas sobre la venganza ademas de mostrar la perdida y el duelo que sufren las personas.</li>
+</ul>
+
+<h2 id="sinopsis">Sinopsis:</h2>
+
+<ul>
+  <li>El asentado y tranquilo superviviente, Joel ya no tiene que realizar ningun encargo más, vive en una ciudad protegida por muros junto con una Ellie mas adulta. Su pasado siempre le ha estado persiguiendo, Abby, una mujer cuyo padre fue asesinado por Joel busca venganza y acaba con su vida. Ellie al enterarse de esto decide hacer un viaje para acabar con Abby y toda su familia, al igual que hizo ella.</li>
+</ul>
+
+<h2 id="ciclo">Ciclo:</h2>
+
+<ul>
+  <li>El juego te presenta un ciclo continuo de venganza, cada protagonista es empujado por una causa que provoca un sentimiento que necesita ser vivido y sufrido pero esto no ocurre, enfocan ese dolor en una busqueda de venganza continua, moviendose en un ciclo de odio y daños. El juego intenta enseñarte que esta forma de vivir no es buena y que al final desgasta mas seguir esta rueda que afrontar el primer ataque.</li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Venganza:]]></summary></entry><entry><title type="html">The Last Of Us</title><link href="http://10.0.16.36:3000/jekyll/update/2024/04/24/TLOU-parte1.html" rel="alternate" type="text/html" title="The Last Of Us" /><published>2024-04-24T11:17:52+02:00</published><updated>2024-04-24T11:17:52+02:00</updated><id>http://10.0.16.36:3000/jekyll/update/2024/04/24/TLOU-parte1</id><content type="html" xml:base="http://10.0.16.36:3000/jekyll/update/2024/04/24/TLOU-parte1.html"><![CDATA[<h1 id="que-es-the-last-of-us">¿Que es The Last Of Us?</h1>
+
+<h2 id="resumen">Resumen:</h2>
+
+<ul>
+  <li>The Last Of Us (Los ultimos de nosotros) es un videojuego de 2013 con tematica de terror y suspense.  <br />
+Ambientado en unos Estado Unidos devastados por una pandemia fungica, un hongo que tipicamente infecta a las hormigas se adapta a los humanos, controlandolos y volviendolos agresivos a otras personas sanas. Estos infectados solo buscan esparcir el virus, contagiando mediante esporas, transmitidas por mordidas, arrañazos o incluso el aire, a cualquier ser vivio que vean.</li>
+</ul>
+
+<h2 id="sinopsis">Sinopsis:</h2>
+
+<ul>
+  <li>El contrabandista y superviviente, Joel se encuentra con el encargo de entregar una niña, Ellie, en unas instalaciones cerca de la costa oeste de EE.UU. Esta tarea sera de vital importancia, ya que la niña presenta una mordida en la mano pero no sintomas de infeccion, es inmune.  <br />
+Este duo tendra que esquivar infectados, asaltantes y un pais destruido para intentar hayar una cura.</li>
+</ul>
+
+<h2 id="ophiocordyceps-unilateralis">Ophiocordyceps Unilateralis:</h2>
+
+<ul>
+  <li>Aunque es un juego de ficción, el hongo que te presentan existe en la vida real.  <br />
+El nombre usado en el videjo juego, Cordyceps, viene del nombre cientifico del Ophiocordyceps Unilateralis el cual tambien infeccta y controla a seres vivos, pero no a un nivel tan complejo como a los humanos, solo a simples hormigas. El humano es mas complejo que el sistema de una insecto, de momento no hay que preocuparse.</li>
+</ul>
+
+<p><img src="https://naukas.com/fx/uploads/2010/08/hormiga2a.jpg" alt="Hormiga-infectada" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[¿Que es The Last Of Us?]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://10.0.16.36:3000/jekyll/update/2024/04/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-04-23T09:57:37+02:00</published><updated>2024-04-23T09:57:37+02:00</updated><id>http://10.0.16.36:3000/jekyll/update/2024/04/23/welcome-to-jekyll</id><content type="html" xml:base="http://10.0.16.36:3000/jekyll/update/2024/04/23/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
