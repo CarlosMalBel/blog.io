@@ -22,7 +22,7 @@ title: Jekyll IAW
 email: carlos.mallaviabelmonte@iesmiguelherrero.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta pagina es una prueba para la tarea 2.1 del modulo de Implantacion de Aplicaciones Web del curso ASIR 2023/2024.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CarlosMalBel
 
